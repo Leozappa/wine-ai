@@ -1,0 +1,9 @@
+flask
+pandas
+openpyxl
+scikit-learn
+opencv-python-headless
+Pillow
+matplotlib
+seaborn
+numpy
