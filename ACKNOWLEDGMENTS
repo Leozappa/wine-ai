@@ -1,0 +1,20 @@
+ACKNOWLEDGMENTS
+
+This project was developed as part of the Neuromarketing Laboratory course
+(A.A. 2025/2026) at Università IULM, Milan.
+
+The authors acknowledge the Neuromarketing Laboratory of Università IULM,
+which provided the dataset of 43 wine label images with expert evaluations
+used to train the machine learning models.
+
+The authors also acknowledge the use of the following open-source libraries
+and tools: scikit-learn, OpenCV, Flask, Pandas, NumPy, Matplotlib, Seaborn,
+Pillow, and the Railway platform for deployment.
+
+Authors' contributions:
+A.D. conducted the literature review on neuromarketing and visual persuasion,
+designed the five evaluation dimensions, and wrote the project documentation.
+L.Z. set up the GitHub repository and managed the deployment on Railway.
+A.D. and L.Z. jointly developed the full Python pipeline (data preparation,
+model training, analysis, and web interface) and collaborated on debugging
+and testing throughout the development process.
