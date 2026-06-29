@@ -1,20 +1,25 @@
-ACKNOWLEDGMENTS
+# Acknowledgments
 
-This project was developed as part of the Neuromarketing Laboratory course
-(A.A. 2025/2026) at Università IULM, Milan.
+### Contributi al progetto
+Questo progetto è stato interamente sviluppato dal team composto da:
+* Agnese Delucchi (A.D.)
+* Leonardo Zappavigna (L.Z.)
+* Delvina Vartic (D.V.)
 
-The authors acknowledge the Neuromarketing Laboratory of Università IULM,
-which provided the dataset of 43 wine label images with expert evaluations
-used to train the machine learning models.
+---
 
-The authors also acknowledge the use of the following open-source libraries
-and tools: scikit-learn, OpenCV, Flask, Pandas, NumPy, Matplotlib, Seaborn,
-Pillow, and the Railway platform for deployment.
+### Pipeline del progetto e responsabilità del team
+Per quanto riguarda il contributo degli autori, ecco come abbiamo proceduto allo sviluppo della pipeline del progetto.
+* A.D. e L.Z. hanno condotto ricerche approfondite per esplorare approcci di machine learning applicati alla valutazione visiva delle immagini, selezionando i modelli e le feature più adatti al problema.
+* D.V. ha verificato le fasi iniziali del progetto e ha contribuito alla struttura del codice utilizzando piattaforme di IA generativa come ChatGPT e Claude.
+* A.D. e L.Z. si sono occupati dell'implementazione e del debug del codice utilizzando Visual Studio Code, avvalendosi di strumenti di IA generativa per la risoluzione di problemi specifici e i suggerimenti sulle migliori pratiche.
+* A.D., L.Z. e D.V. hanno collaborato per finalizzare e completare i moduli principali della pipeline (preparazione_dati.py, addestramento.py, analisi.py, app.py).
+* D.V. ha curato la stesura della documentazione completa del progetto.
+* Tutti i membri del team hanno lavorato insieme per garantire che la versione finale del progetto fosse caricata sul repository GitHub.
 
-Authors' contributions:
-A.D. conducted the literature review on neuromarketing and visual persuasion,
-designed the five evaluation dimensions, and wrote the project documentation.
-L.Z. set up the GitHub repository and managed the deployment on Railway.
-A.D. and L.Z. jointly developed the full Python pipeline (data preparation,
-model training, analysis, and web interface) and collaborated on debugging
-and testing throughout the development process.
+---
+
+### Fonti e piattaforme
+Gli autori del progetto ringraziano le seguenti piattaforme e risorse:
+* Laboratorio di Neuromarketing – Università IULM: ha reso disponibile il dataset delle etichette di vino reali con i relativi punteggi valutativi, utilizzati per addestrare i modelli di machine learning.
+* Piattaforme di IA generativa (ChatGPT/Claude): questi strumenti sono stati utilizzati in modo onesto e trasparente per la ricerca iniziale, per supportare la struttura del codice e per il debug di specifici problemi di programmazione.
